@@ -7,7 +7,7 @@ This is real commercial data, it has been anonymised, and references to the comp
 
 ## Context
 This dataset was generously provided by Olist, the largest department store in Brazilian marketplaces. Olist connects small businesses from all over Brazil to channels without hassle and with a single contract. Those merchants are able to sell their products through the Olist Store and ship them directly to the customers using Olist logistics partners. 
-See more on our website: [olist website](www.olist.com)
+See more on our website: [olist website](https://olist.com/pt-br/)
 
 After a customer purchases the product from Olist Store a seller gets notified to fulfill that order. Once the customer receives the product, or the estimated delivery date is due, the customer gets a satisfaction survey by email where he can give a note for the purchase experience and write down some comments.
 
@@ -22,7 +22,7 @@ The data is divided in multiple datasets for better understanding and organizati
 
 ![diagram all csv](https://i.imgur.com/HRhd2Y0.png)
 
-Free dataset in ![dataset in kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce)
+Free dataset in [dataset in kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce)
 
 ## NLP:
 
